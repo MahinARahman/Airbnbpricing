@@ -14,6 +14,6 @@ Although Random Forest emerged as the most accurate model based on mean absolute
 1. Clone the repository: `git clone https://github.com/MahinARahman/Airbnbpricing.git`
 2. Install required R packages:
    ```R
-   install.packages(c("tidyverse", "lubridate", "randomForest", "geosphere"))
+   install.packages(c("tidyverse", "lubridate", "randomForest", "geosphere", "ggplot2", "naniar", "GGally" ))
 
 _______________________________________________
