@@ -1,4 +1,4 @@
-# Airbnbpricing
+# Airbnb Pricing Prediction: Regression Model Using Random Forest
 Overview: We developed a regression model to predict prices for Airbnb listings, incorporating key attributes such as location, property space, amenities, and availability.
 
 Files: The R code for our analysis has been uploaded in the reposiotry along with the report explaining our approach. 
