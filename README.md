@@ -7,7 +7,9 @@ How can we predict the potential revenue of Airbnb listings in London to provide
 
 ## Methods
 Data Preparation: Deleting fields (e.g. identifier data, URLs), Creating categorical variables (e.g. neighbourhood, room type) , Adding new fields (e.g. distance from landmarks like Buckingham palace), Removing missing records, and Splitting dataset into train and test sets. 
+
 Modeling: Developed and evaluated Linear Regression, CART, Random Forest, K-Nearest Neighbors (KNN), Lasso, and Post-Lasso regression models using cross validation. 
+
 Evaluation: Used Mean Absolute Error (MAE) for evaluating models.
 
 ## Insights and Recommendations
